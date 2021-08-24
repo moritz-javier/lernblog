@@ -1,13 +1,13 @@
 +++
 title = "Über mich"
 draft = false
-description = "Seite über mich"
 image = ""
+description = "Seite über mich"
 +++
 ![](/img/default-author.png)
 
-## Vorname Nachname
+## Im Rahmen des Webmoduls arbeite ich an einer Website.
 
-info@lernblog.ch
+
 
 Beschreibung, wer ich bin...
