@@ -5,6 +5,10 @@ draft = false
 pinned = false
 image = ""
 +++
-In Bearbeitung
+Mein Arbeitspartner heisst Dominik Rieder. Heute haben wir geschaut, welche Dienstleistungen wir anbieten und welche Kunden wir ansprechen können.
 
-![](microsoftteams-image-1-.png)
+Zusätzlich haben wir mit unserem Lehrer ein kleines Gespräch geführt, um ein Update zu geben. 
+
+
+
+![](microsoftteams-image.png)
