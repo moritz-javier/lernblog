@@ -9,6 +9,6 @@ Mein Arbeitspartner heisst Dominik Rieder. Heute haben wir geschaut, welche Dien
 
 Zusätzlich haben wir mit unserem Lehrer ein kleines Gespräch geführt, um ein Update zu geben. 
 
-
+![](microsoftteams-image-1-.png)
 
 ![](microsoftteams-image.png)
