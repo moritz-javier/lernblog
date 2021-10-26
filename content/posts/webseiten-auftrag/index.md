@@ -13,4 +13,10 @@ Ich kann meine Nachbarin fragen. Sie verkauft als Hobby Desserts und möchte vie
 
 Ich kenne Leute vom Fitness, die vielleicht einige Personal Trainings anbieten würden.
 
+\- Übungen mit Matte
+
+\- Übungen mit Gewichten
+
+\- Yoga und Pilates
+
 Eine bekannte von mir kann sehr gut Italienisch. Sie würde allenfalls Nachhilfe anbieten.
