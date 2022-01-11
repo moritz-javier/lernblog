@@ -17,4 +17,4 @@ Im November habe ich mich damit beschäftigt, auf Visual Studio auf eine einfach
 
 ![](visual-studio.png)
 
-Im Dezember habe ich mich mit Bootstrap beschäftigt. Bootstrap ist ein Framework. Das bedeutet, dass man sich auf CSS und HTML basierende Gestaltungsvorlagen herunterladen kann, damit man nicht selbst die ganze Programmierung machen muss.
+Im Dezember habe ich mich mit Bootstrap beschäftigt. Bootstrap ist ein Framework. Das bedeutet, dass man sich auf CSS und HTML basierende Gestaltungsvorlagen herunterladen kann, damit man nicht selbst die ganze Programmierung machen muss. Ich habe mir Gedanken gemacht, welche Vorlage für mein Projekt am geeignetsten ist. Ist wollte eher eine einfache Vorlage für mein Projekt.
