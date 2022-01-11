@@ -3,6 +3,7 @@ title = "Inspiration"
 date = "2021-11-30"
 draft = false
 pinned = false
+image = "jog.png"
 +++
 # **Wie entscheide ich mich für ein passendes Projekt?**
 
