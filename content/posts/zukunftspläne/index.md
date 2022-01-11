@@ -1,5 +1,5 @@
 +++
-title = "Zukunftspläne"
+title = "Zukunftspläne Sport"
 date = "2022-01-11"
 draft = false
 pinned = false
