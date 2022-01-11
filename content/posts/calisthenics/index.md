@@ -21,4 +21,6 @@ Im Dezember habe ich mich mit Bootstrap beschäftigt. Bootstrap ist ein Framewor
 
 ![]()
 
-Vor den Weihnachtsferien ging ich an die Aare runter, um Fotos vom Parcours zu machen. Ich benötigte dafür etwa 2 Stunden und machte etwa 20 Bilder. Auf dem unteren Bild sieht man ein Parcours Gerät.
+Vor den Weihnachtsferien ging ich an die Aare runter, um Fotos vom Parcours zu machen. Ich benötigte dafür etwa 2 Stunden und machte etwa 20 Bilder. Auf dem unteren Bild sieht man ein Parcours Gerät. 
+
+![](parcours.jpg)
