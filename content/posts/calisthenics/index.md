@@ -14,3 +14,7 @@ Nach den Herbstferien haben Dominic und ich entschlossen, verschiedene Wege zu g
 ![](codemakery.png)
 
 Im November habe ich mich damit beschäftigt, auf Visual Studio auf eine einfache Art zu programmieren. Visual Studio ist ein eigenständiger Quellcode Editor von Microsoft.
+
+![](visual-studio.png)
+
+Im Dezember habe ich mich mit  Bootstrap beschäftigt.
