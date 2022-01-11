@@ -18,3 +18,7 @@ Im November habe ich mich damit beschäftigt, auf Visual Studio auf eine einfach
 ![](visual-studio.png)
 
 Im Dezember habe ich mich mit Bootstrap beschäftigt. Bootstrap ist ein Framework. Das bedeutet, dass man sich auf CSS und HTML basierende Gestaltungsvorlagen herunterladen kann, damit man nicht selbst die ganze Programmierung machen muss. Ich habe mir Gedanken gemacht, welche Vorlage für mein Projekt am geeignetsten ist. Ist wollte eher eine einfache Vorlage für mein Projekt.
+
+![]()
+
+Vor den Weihnachtsferien ging ich an die Aare runter, um Fotos vom Parcours zu machen. Ich benötigte dafür etwa 2 Stunden und machte etwa 20 Bilder. Auf dem unteren Bild sieht man ein Parcours Gerät.
