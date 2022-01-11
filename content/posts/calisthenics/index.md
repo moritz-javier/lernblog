@@ -1,5 +1,5 @@
 +++
-title = "Calisthenics"
+title = "Projektrückblick WEB"
 date = "2022-01-11"
 draft = false
 pinned = false
