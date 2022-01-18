@@ -25,4 +25,6 @@ Vor den Weihnachtsferien ging ich an die Aare runter, um Fotos vom Parcours zu m
 
 ![](parcours.jpg)
 
-Kurz nach den Weihnachtsferien habe ich damit begonnen, meine Webseite zu programmieren und fertig zu stellen. Mein Vater hat mir teilweise auch ein wenig geholfen, da er ein grosses Wissen über das Programmieren hat.
+Kurz nach den Weihnachtsferien habe ich damit begonnen, meine Webseite zu programmieren und fertig zu stellen. Mein Vater hat mir teilweise auch ein wenig geholfen, da er ein grosses Wissen über das Programmieren hat. Schliesslich konnte ich meine Webseite fertigstellen.
+
+![](webseite.png)
