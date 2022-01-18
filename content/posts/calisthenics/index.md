@@ -28,3 +28,7 @@ Vor den Weihnachtsferien ging ich an die Aare runter, um Fotos vom Parcours zu m
 Kurz nach den Weihnachtsferien habe ich damit begonnen, meine Webseite zu programmieren und fertig zu stellen. Mein Vater hat mir teilweise auch ein wenig geholfen, da er ein grosses Wissen über das Programmieren hat. Schliesslich konnte ich meine Webseite fertigstellen.
 
 ![](webseite.png)
+
+Ich konnte viele neue Erkenntnisse gewinnen, was das Programmieren angeht. Ich habe gelernt, wie man das HTML mit verschiedenen Tags strukturiert. Dazu gehören beispielsweise Margin, Border und Padding. Mit diesen Styles kann man das Element formatieren. Im folgenden sehen Sie einen Ausschnitt aus meinen Visual Studio Code. 
+
+![](11.png)
