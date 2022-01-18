@@ -24,3 +24,5 @@ Im Dezember habe ich mich mit Bootstrap beschäftigt. Bootstrap ist ein Framewor
 Vor den Weihnachtsferien ging ich an die Aare runter, um Fotos vom Parcours zu machen. Ich benötigte dafür etwa 2 Stunden und machte etwa 20 Bilder. Auf dem unteren Bild sieht man ein Parcours Gerät. 
 
 ![](parcours.jpg)
+
+Kurz nach den Weihnachtsferien habe ich damit begonnen, meine Webseite zu programmieren und fertig zu stellen. Mein Vater hat mir teilweise auch ein wenig geholfen, da er ein grosses Wissen über das Programmieren hat.
