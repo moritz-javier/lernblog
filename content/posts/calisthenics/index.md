@@ -13,21 +13,31 @@ Nach den Herbstferien haben Dominic und ich entschlossen, verschiedene Wege zu g
 
 ![](codemakery.png)
 
+## Visual Studio in der Schule
+
 Im November habe ich mich damit beschäftigt, auf Visual Studio auf eine einfache Art zu programmieren. Visual Studio ist ein eigenständiger Quellcode Editor von Microsoft.
 
 ![](visual-studio.png)
+
+## Bootstrap
 
 Im Dezember habe ich mich mit Bootstrap beschäftigt. Bootstrap ist ein Framework. Das bedeutet, dass man sich auf CSS und HTML basierende Gestaltungsvorlagen herunterladen kann, damit man nicht selbst die ganze Programmierung machen muss. Ich habe mir Gedanken gemacht, welche Vorlage für mein Projekt am geeignetsten ist. Ist wollte eher eine einfache Vorlage für mein Projekt.
 
 ![]()
 
+## Parcours Aare
+
 Vor den Weihnachtsferien ging ich an die Aare runter, um Fotos vom Parcours zu machen. Ich benötigte dafür etwa 2 Stunden und machte etwa 20 Bilder. Auf dem unteren Bild sieht man ein Parcours Gerät. 
 
 ![](parcours.jpg)
 
+## Meine Webseite
+
 Kurz nach den Weihnachtsferien habe ich damit begonnen, meine Webseite zu programmieren und fertig zu stellen. Mein Vater hat mir teilweise auch ein wenig geholfen, da er ein grosses Wissen über das Programmieren hat. Schliesslich konnte ich meine Webseite fertigstellen.
 
 ![](webseite.png)
+
+## Visual Studio von Zuhause
 
 Ich konnte viele neue Erkenntnisse gewinnen, was das Programmieren angeht. Ich habe gelernt, wie man das HTML mit verschiedenen Tags strukturiert. Dazu gehören beispielsweise Margin, Border und Padding. Mit diesen Styles kann man das Element formatieren. Auch habe ich etwas über die Barrierefreiheit gelernt. Mit dem Ausdruck "barrierefrei" wird die uneingeschränkte Zugänglichkeit eines Produktes, einer Dienstleistung oder einer Einrichtung, unabhängig von einer möglichen Behinderung oder Erkrankung beschrieben. Im folgenden sehen Sie einen Ausschnitt aus meinen Visual Studio Code
 
